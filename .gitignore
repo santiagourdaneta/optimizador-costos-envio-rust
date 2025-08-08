@@ -1,0 +1,10 @@
+# Archivos de compilación de Cargo
+/target/
+
+# Archivos de depuración y log
+/Cargo.lock
+
+# Editor de configuración y archivos temporales
+.idea/
+.vscode/
+*~
